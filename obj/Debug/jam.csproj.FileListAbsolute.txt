@@ -1,0 +1,44 @@
+C:\Users\Christian Gomes\Desktop\jam engine\jam\bin\Debug\jam.exe.config
+C:\Users\Christian Gomes\Desktop\jam engine\jam\bin\Debug\jam.exe
+C:\Users\Christian Gomes\Desktop\jam engine\jam\bin\Debug\jam.pdb
+C:\Users\Christian Gomes\Desktop\jam engine\jam\bin\Debug\OpenTK.dll
+C:\Users\Christian Gomes\Desktop\jam engine\jam\bin\Debug\OpenTK.xml
+C:\Users\Christian Gomes\Desktop\jam engine\jam\obj\Debug\jam.exe
+C:\Users\Christian Gomes\Desktop\jam engine\jam\obj\Debug\jam.pdb
+C:\Users\Christian Gomes\Desktop\jam engine\jam\bin\Debug\NVorbis.dll
+C:\Users\Christian Gomes\Desktop\jam engine\jam\bin\Debug\NVorbis.xml
+C:\Users\Christian Gomes\Desktop\jam engine\jam\bin\Debug\FarseerPhysics.dll
+C:\Users\Christian Gomes\Desktop\jam engine\jam\obj\Debug\jam.csprojResolveAssemblyReference.cache
+C:\Users\victo\Dropbox\GameDev\Engine\jam engine\jam\bin\Debug\jam.exe.config
+C:\Users\victo\Dropbox\GameDev\Engine\jam engine\jam\obj\Debug\jam.exe
+C:\Users\victo\Dropbox\GameDev\Engine\jam engine\jam\obj\Debug\jam.pdb
+C:\Users\victo\Dropbox\GameDev\Engine\jam engine\jam\bin\Debug\jam.exe
+C:\Users\victo\Dropbox\GameDev\Engine\jam engine\jam\bin\Debug\jam.pdb
+C:\Users\victo\Dropbox\GameDev\Engine\jam engine\jam\bin\Debug\FarseerPhysics.dll
+C:\Users\victo\Dropbox\GameDev\Engine\jam engine\jam\bin\Debug\NVorbis.dll
+C:\Users\victo\Dropbox\GameDev\Engine\jam engine\jam\bin\Debug\OpenTK.dll
+C:\Users\victo\Dropbox\GameDev\Engine\jam engine\jam\bin\Debug\NVorbis.xml
+C:\Users\victo\Dropbox\GameDev\Engine\jam engine\jam\bin\Debug\OpenTK.xml
+C:\Users\victo\Dropbox\GameDev\Engine\jam engine\jam\obj\Debug\jam.csprojResolveAssemblyReference.cache
+C:\Users\Christian Gomes\Desktop\jam\bin\Debug\jam.exe.config
+C:\Users\Christian Gomes\Desktop\jam\bin\Debug\jam.exe
+C:\Users\Christian Gomes\Desktop\jam\bin\Debug\jam.pdb
+C:\Users\Christian Gomes\Desktop\jam\bin\Debug\FarseerPhysics.dll
+C:\Users\Christian Gomes\Desktop\jam\bin\Debug\NVorbis.dll
+C:\Users\Christian Gomes\Desktop\jam\bin\Debug\OpenTK.dll
+C:\Users\Christian Gomes\Desktop\jam\bin\Debug\NVorbis.xml
+C:\Users\Christian Gomes\Desktop\jam\bin\Debug\OpenTK.xml
+C:\Users\Christian Gomes\Desktop\jam\obj\Debug\jam.exe
+C:\Users\Christian Gomes\Desktop\jam\obj\Debug\jam.pdb
+C:\Users\Christian Gomes\Desktop\jam\obj\Debug\jam.csprojResolveAssemblyReference.cache
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Debug\jam.exe.config
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\obj\Debug\jam.exe
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\obj\Debug\jam.pdb
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Debug\jam.exe
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Debug\jam.pdb
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Debug\FarseerPhysics.dll
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Debug\NVorbis.dll
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Debug\OpenTK.dll
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Debug\NVorbis.xml
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Debug\OpenTK.xml
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\obj\Debug\jam.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+Spikes so devem desaparecer no frame 0
+Spikes devem ser maior
+Spikes devem ser laranja
+Spikes nao devem dar spawn na frente do player ou no caminho dele
+Spikes nao devem dar spawn uns sobres os outros
+Spikes nao devem dar spawn fora do circulo
+Spikes devem causar dano proporcional ao seu frame
+
+Cabo de guerra de vida
+Renderer de corrente
+
+Melhorar efeito do shader

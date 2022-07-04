@@ -1,0 +1,21 @@
+C:\Users\Christian Gomes\Desktop\jam\bin\Release\jam.exe.config
+C:\Users\Christian Gomes\Desktop\jam\bin\Release\jam.exe
+C:\Users\Christian Gomes\Desktop\jam\bin\Release\jam.pdb
+C:\Users\Christian Gomes\Desktop\jam\bin\Release\FarseerPhysics.dll
+C:\Users\Christian Gomes\Desktop\jam\bin\Release\NVorbis.dll
+C:\Users\Christian Gomes\Desktop\jam\bin\Release\OpenTK.dll
+C:\Users\Christian Gomes\Desktop\jam\bin\Release\NVorbis.xml
+C:\Users\Christian Gomes\Desktop\jam\bin\Release\OpenTK.xml
+C:\Users\Christian Gomes\Desktop\jam\obj\Release\jam.exe
+C:\Users\Christian Gomes\Desktop\jam\obj\Release\jam.pdb
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Release\jam.exe.config
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\obj\Release\jam.exe
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\obj\Release\jam.pdb
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Release\jam.exe
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Release\jam.pdb
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Release\FarseerPhysics.dll
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Release\NVorbis.dll
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Release\OpenTK.dll
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Release\NVorbis.xml
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\bin\Release\OpenTK.xml
+C:\Users\serlo\Dropbox\GameDev\Games\Satanic\obj\Release\jam.csprojResolveAssemblyReference.cache
